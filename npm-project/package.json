@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate-npm",
+  "version": "1.0.0",
+  "description": "A boilerplate for the freeCodeCamp curriculum.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Kennedy Omale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+}
